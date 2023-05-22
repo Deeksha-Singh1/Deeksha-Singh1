@@ -1,5 +1,5 @@
 # 💫 About Me:
- A passionate software developer from India<br>I am currently learning MERN
+ As a software engineer, I am constantly seeking to improve my skills and learn about new technologies. <br>I am currently learning MERN
 
 
 # 💻 Tech Stack:
